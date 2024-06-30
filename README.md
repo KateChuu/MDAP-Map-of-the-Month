@@ -1,1 +1,1 @@
-# KateChuuMDAP-Map-of-the-Month
+MDAP-Map-of-the-Month
