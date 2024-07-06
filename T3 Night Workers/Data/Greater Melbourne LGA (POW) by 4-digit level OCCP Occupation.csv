@@ -1,0 +1,51 @@
+Australian Bureau of Statistics,,,
+,,,
+"2021 Census - counting persons, 15 years and over",,,
+LGA (POW) by 4-digit level OCCP Occupation,,,
+Counting: Person Records,,,
+,,,
+Filters:,,,
+Default Summation,Person Records,,
+,,,
+4-digit level OCCP Occupation,Midwives,Registered Nurses,Total
+LGA (POW),,,
+Banyule,382,3388,3775
+Bayside (Vic.),74,729,798
+Boroondara,14,1216,1230
+Brimbank,363,1953,2310
+Cardinia,6,216,227
+Casey,175,1774,1950
+Darebin,6,515,524
+Frankston,177,2283,2461
+Glen Eira,15,1028,1044
+Greater Dandenong,166,1776,1936
+Hobsons Bay,7,360,363
+Hume,15,700,711
+Kingston (Vic.),16,889,898
+Knox,135,1277,1407
+Manningham,11,449,461
+Maribyrnong,12,1178,1194
+Maroondah,14,1204,1222
+Melbourne,851,9000,9848
+Melton,8,466,477
+Monash,382,3416,3801
+Moonee Valley,7,381,390
+Moreland,20,715,737
+Mornington Peninsula,43,1071,1116
+Nillumbik,3,130,133
+Port Phillip,12,490,502
+Stonnington,110,1700,1812
+Whitehorse,224,2765,2991
+Whittlesea,203,2058,2262
+Wyndham,174,1245,1426
+Yarra,123,3421,3547
+Yarra Ranges,24,320,338
+,,,
+Total,[Values recalculated for included LGAs],,
+,,,
+"Data source: Census of Population and Housing, 2021, TableBuilder",,,
+,,,
+INFO,Cells in this table have been randomly adjusted to avoid the release of confidential data. No reliance should be placed on small cells.,,
+,,,
+"Copyright Commonwealth of Australia, 2021, see abs.gov.au/copyright",,,
+"ABS data licensed under Creative Commons, see abs.gov.au/ccby",,,
