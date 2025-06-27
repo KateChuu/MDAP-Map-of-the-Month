@@ -1,6 +1,6 @@
 # MDAP-Map-of-the-Month
 
-- Project team: Amanda Belton, Dr Emily Fitzgerald, Dr Stuart Lee, Sayan Bachhar and me.
+- Project team: Amanda Belton, Dr Emily Fitzgerald, Dr Stuart Lee, Sayan Bachhar and Kate Chu.
 
 - Stakeholders: Australian Urban Research Infrastructure Network (AURIN), Pursuit, and Melbourne Centre for Cities and Lord Mayor's Charitable Foundation.
  
